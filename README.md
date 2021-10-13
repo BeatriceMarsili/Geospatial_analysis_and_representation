@@ -6,6 +6,7 @@ We suggest to follow the below procedure:
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt 
+python3 -m ipykernel install --user --name env --display-name "Geospatial analysis"
 jupyter notebook
 ```
 then select the "Analysis.ipynb" file and execute. 
