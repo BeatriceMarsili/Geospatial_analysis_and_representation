@@ -1,4 +1,5 @@
 pygeos
+rtree
 contextily
 geopandas
 git+https://github.com/HTenkanen/pyrosm.git@master
@@ -9,3 +10,4 @@ owslib
 pyshp
 bmi-arcgis-restapi
 plotly
+ipykernel
