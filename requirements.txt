@@ -1,0 +1,11 @@
+pygeos
+contextily
+geopandas
+git+https://github.com/HTenkanen/pyrosm.git@master
+osmnx==0.16.2
+matplotlib==3.2.2
+mapclassify
+owslib
+pyshp
+bmi-arcgis-restapi
+plotly
